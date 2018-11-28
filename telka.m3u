@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="nova.international.cz" tvg-name="Cz: Nova International", CZ: Nova International
+http://se02.se.cdn.srv.markiza.sk/live/nova-w.smil/chunklist_b2120000.m3u8
+
+#EXTINF:0 tvg-id="nova.sport.1.cz" tvg-name="Cz: Nova Sport 1", CZ: Nova Sport 1
+http://se02.se.cdn.srv.markiza.sk/live/novasport-w.smil/chunklist_b2120000.m3u8
+
+#EXTINF:0 tvg-id="nova.sport.2.cz" tvg-name="Cz: Nova Sport 2", CZ: Nova Sport 2
+http://se01.se.cdn.srv.markiza.sk/live/novasport2-w.smil/chunklist_b2120000.m3u8
+
+#EXTINF:0 tvg-id="joj.cz" tvg-name="Cz: Joj", SK: Joj
+http://se02.se.magiogo06.cdn.telekom.sk/live006/channel005_p5.stream/DVR.m3u8
+
+#EXTINF:0 tvg-id="joj.family.cz" tvg-name="Cz: Joj Family", SK: Joj Family
+http://nn.geo.joj.sk/hls/family-540.m3u8
+
+#EXTINF:0 tvg-id="joj.plus.cz" tvg-name="Cz: Joj Plus", SK: Joj Plus
+http://nn2.joj.sk/hls/jojplus-540.m3u8
+
+#EXTINF:0 tvg-id="markiza.cz" tvg-name="Cz: Markiza", SK: Markiza
+http://se02.se.magiogo06.cdn.telekom.sk/live006/channel003_p5.stream/DVR.m3u8
+
+#EXTINF:0 tvg-id="tv.dajto.cz" tvg-name="Cz: Tv Dajto", SK: Tv Dajto
+http://se01.se.cdn.srv.markiza.sk/live/dajto-w.smil/chunklist_b2120000.m3u8
+
+#EXTINF:0 tvg-id="doma.cz" tvg-name="Cz: Doma", SK: Doma
+http://se02.se.cdn.srv.markiza.sk/live/doma-w.smil/chunklist_b2120000.m3u8s
+
+#EXTINF:0 tvg-id="wau.cz" tvg-name="Cz: Wau", SK: Wau
+http://magiogo05.cdn.telekom.sk/live005/channel030_p5.stream/DVR.m3u8
+
+
+
