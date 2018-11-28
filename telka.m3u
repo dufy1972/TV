@@ -32,3 +32,83 @@ http://magiogo05.cdn.telekom.sk/live005/channel030_p5.stream/DVR.m3u8
 
 
 
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-id="Frekvence 1" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiof16.jpg" radio="true",Frekvence1  (Pop)
+http://icecast4.play.cz/frekvence1-128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioe11.jpg" radio="true",Evropa 2 (Pop)
+http://icecast3.play.cz/evropa2-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok13.jpg" radio="true",Radio Kiss (Pop / Dance)
+http://icecast4.play.cz:8000/kiss128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioi12.jpg" radio="true",Impuls Radio  (Pop)
+http://icecast5.play.cz/impuls128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioi13.jpg" radio="true",Cesky Impuls (Oldies)	
+http://icecast6.play.cz:8000/cesky-impuls.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc24.jpg" radio="true",Radio Cas (Ostrava)(Pop / Oldies)
+http://icecast7.play.cz:8000/casradio128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc23.jpg" radio="true",Radio Cas Rock (Rock)
+http://icecast7.play.cz:8000/casrock128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc33.jpg" radio="true",Country Radio (Country)	
+http://icecast4.play.cz:443/country128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiof13.jpg" radio="true",Fajn Radio (Pop)
+http://ice.abradio.cz/fajn128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiob11.jpg" radio="true",Radio Beat (Rock)
+http://ice5.abradio.cz/beat128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg" radio="true",Hitradio Orion Morava (Pop)
+http://ice.abradio.cz/orionmorava128.mp3
+
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok14.jpg" radio="true",Koule.cz Filmove Melodie (Filmove melodie)
+http://ice-01.lagardere.cz:80/web-rb-melodie
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior12.jpg" radio="true",Cesky rozhlas 1 - Radiozurnal (All Format)
+http://icecast7.play.cz:443/cro1-128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc27.jpg" radio="true",CRo Ostrava (All Format / Classic / Oldies)
+http://icecast2.play.cz:8000/croov128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior13.jpg" radio="true",Radio Retro (Mluvene slovo)
+http://icecast7.play.cz/croretro128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiow10.jpg" radio="true",CRo Wave (Rock / Alternative)
+http://icecast5.play.cz:8000/crowave-128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioj14.jpg" radio="true",CRo Jazz (Jazz)
+http://icecast2.play.cz:8000/crojazz128aac
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod18.jpg" radio="true",CRo D-dur (Classic)
+http://icecast5.play.cz:8000/croddur-128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop18.jpg" radio="true",CRo Plus (Mluvene slovo)
+http://icecast1.play.cz:443/croplus128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh13.jpg" radio="true",Radio Humor (Mluvene slovo)
+http://mp3stream4.abradio.cz:8000/humor128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop11.jpg" radio="true",Radio Povidka (Mluvene slovo)
+http://ice.abradio.cz/povidka128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop12.jpg" radio="true",Radio Pohadka (Mluvene slovo)
+http://ice3.abradio.cz/pohadka128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod14.jpg" radio="true",Radio Domino (Mluvene slovo)
+http://mp3stream4.abradio.cz/domino128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc20.jpg" radio="true",Cimrmanovo radio (Mluvene slovo) 
+http://liquiddoom.net:8000/cimrman
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg" radio="true",Pigy.cz – Pohadky (Mluvene slovo)
+http://pool.cdn.lagardere.cz/web-pg-pohadky
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop13.jpg" radio="true",Pigy - Pisnicky z pohadek (Pop)
+http://ice-01.lagardere.cz/web-pg-pisnicky
+
+
