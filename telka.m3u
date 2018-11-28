@@ -15,7 +15,7 @@ http://se02.se.magiogo06.cdn.telekom.sk/live006/channel005_p5.stream/DVR.m3u8
 #EXTINF:0 tvg-id="joj.family.cz" tvg-name="Cz: Joj Family" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_family.png, SK: Joj Family
 http://nn.geo.joj.sk/hls/family-540.m3u8
 
-#EXTINF:0 tvg-id="joj.plus.cz" tvg-name="Cz: Joj Plus" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_plus.png SK: Joj Plus
+#EXTINF:0 tvg-id="joj.plus.cz" tvg-name="Cz: Joj Plus" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_plus.png, SK: Joj Plus
 http://nn2.joj.sk/hls/jojplus-540.m3u8
 
 #EXTINF:0 tvg-id="markiza.cz" tvg-name="Cz: Markiza" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/markiza.png, SK: Markiza
