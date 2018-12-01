@@ -38,10 +38,11 @@ http://icecast4.play.cz/frekvence1-128.mp3
 
 #EXTINF:-1 radio=true group-title="Rádia" tvg-id="Evropa 2" tvg-logo="http://22century.cz/soubory/loga/transparent/evropa2.png",Evropa 2 (Pop)
 http://icecast3.play.cz/evropa2-128.mp3
-#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok13.jpg" radio="true",Radio Kiss (Pop / Dance)
+
+#EXTINF:-1 radio=true group-title="Rádia" tvg-id="Kiss Morava" tvg-logo="http://22century.cz/soubory/loga/transparent/kiss.png",Radio Kiss (Pop / Dance)
 http://icecast4.play.cz:8000/kiss128.mp3
 
-#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioi12.jpg" radio="true",Impuls Radio  (Pop)
+#EXTINF:-1 radio=true group-title="Rádia" tvg-id="Impuls" tvg-logo="http://22century.cz/soubory/loga/transparent/impuls.png",Impuls Radio  (Pop)
 http://icecast5.play.cz/impuls128.mp3
 
 #EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioi13.jpg" radio="true",Cesky Impuls (Oldies)	
@@ -53,13 +54,13 @@ http://icecast7.play.cz:8000/casradio128.mp3
 #EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc23.jpg" radio="true",Radio Cas Rock (Rock)
 http://icecast7.play.cz:8000/casrock128.mp3
 
-#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc33.jpg" radio="true",Country Radio (Country)	
+#EXTINF:-1 radio=true group-title="Rádia" tvg-id="Country Radio" tvg-logo="http://22century.cz/soubory/loga/transparent/country.png",Country Radio (Country)	
 http://icecast4.play.cz:443/country128.mp3
 
 #EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiof13.jpg" radio="true",Fajn Radio (Pop)
 http://ice.abradio.cz/fajn128.mp3
 
-#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiob11.jpg" radio="true",Radio Beat (Rock)
+#EXTINF:-1 radio=true group-title="Rádia" tvg-id="Radio Beat" tvg-logo="http://22century.cz/soubory/loga/transparent/beat.png",Radio Beat (Rock)
 http://ice5.abradio.cz/beat128.mp3
 
 #EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg" radio="true",Hitradio Orion Morava (Pop)
