@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,CZ: O2 Sport HD
+http://video.assia.tv/hls/82.m3u8?md5=Y1LXGGuk8UMxj5ut61qqig&expires=1543861830
 #EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Nova International" tvg-logo="http://22century.cz/soubory/loga/transparent/novainternational.png", CZ: Nova International
 http://se02.se.cdn.srv.markiza.sk/live/nova-w.smil/chunklist_b2120000.m3u8
 
@@ -29,6 +31,58 @@ http://se02.se.cdn.srv.markiza.sk/live/doma-w.smil/chunklist_b2120000.m3u8s
 
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="WAU" tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png", SK: Wau
 http://magiogo05.cdn.telekom.sk/live005/channel030_p5.stream/DVR.m3u8
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="HBO" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7651.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="HBO2" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo2.png",HBO 2 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7650.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="HBO3" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo3.png",HBO 3 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7649.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="AXN" tvg-logo="http://22century.cz/soubory/loga/transparent/axn.png",AXN 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7667.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="Filmbox" tvg-logo="http://22century.cz/soubory/loga/transparent/filmbox.png",Filmbox 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7657.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="Filmbox Extra HD" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxextra.png",Filmbox Extra HD 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/14409.ts
+
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="Filmbox Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7655.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="AMC" tvg-logo="http://22century.cz/soubory/loga/transparent/amc.png",AMC 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/14401.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Filmové televize" tvg-id="HOROR FILM" tvg-logo="http://22century.cz/soubory/loga/transparent/hororfilm.png",Horor Film 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7660.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Dokumentární televize" tvg-id="DocuBox HD" tvg-logo="http://22century.cz/soubory/loga/transparent/docubox.png",Docubox HD 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/14410.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Dokumentární televize" tvg-id="AnimalPlanet" tvg-logo="http://22century.cz/soubory/loga/transparent/animalplanet.png",Animal Planet 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7635.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Dokumentární televize" tvg-id="Discovery" tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7663.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Dokumentární televize" tvg-id="Discovery HD Showcase" tvg-logo="http://22century.cz/soubory/loga/transparent/discoveryshowcase.png",Discovery HD Showcase 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7665.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Dokumentární televize" tvg-id="Fishing and Hunting" tvg-logo="http://22century.cz/soubory/loga/transparent/fishinghunting.png",Fishing and Hunting 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7653.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Arena Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport1.png",Arena Sport 1 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7633.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Fightbox" tvg-logo="http://22century.cz/soubory/loga/transparent/fightbox.png",FightBox 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/14400.ts
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Dětské televize" tvg-id="Nickelodeon" tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon 
+http://185.12.12.103:8000/live/Rtb0K2ssa/28mkberTT2/7638.ts
 
 
 
