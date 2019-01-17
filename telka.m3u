@@ -9,6 +9,18 @@ http://se02.se.cdn.srv.markiza.sk/live/novasport-w.smil/chunklist_b2120000.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Nova Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/novasport2.png", CZ: Nova Sport 2
 http://se01.se.cdn.srv.markiza.sk/live/novasport2-w.smil/chunklist_b2120000.m3u8
 
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="SPORT1" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png", SK: SPORT1
+https://unicast.bbxnet.sk/live/sport-1-hd/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="SPORT2" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png", SK: SPORT2
+https://unicast.bbxnet.sk/live/sport-2-hd/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Arena sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png", SK: Arena sport 1
+https://unicast.bbxnet.sk/live/arena-sport-1/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Arena sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png", SK: Arena sport 2
+https://unicast.bbxnet.sk/live/arena-sport-2/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png", SK: Joj
 http://se02.se.magiogo06.cdn.telekom.sk/live006/channel005_p5.stream/DVR.m3u8
 
