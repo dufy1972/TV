@@ -41,40 +41,40 @@ http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
 
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="STV1", SK: STV1
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/stv1hd.png" tvg-id="STV1", SK: STV1
 http://185.167.208.157/master_465.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="STV2", SK: STV2
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/stv2hd.png" tvg-id="STV2", SK: STV2
 http://185.167.208.157/master_466.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="TA3", SK: TA3
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/ta3hd.png" tvg-id="TA3", SK: TA3
 http://185.167.208.157/master_380.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="JOJ Cinema", SK: JOJ Cinema
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/jojcinemahd.png" tvg-id="JOJ Cinema", SK: JOJ Cinema
 http://185.167.208.157/master_464.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="JOJ", SK: Joj
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/tvjojhd.png" tvg-id="JOJ", SK: Joj
 http://nn.geo.joj.sk/hls/joj-720.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="JOJ Family", SK: Joj Family
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/jojfamilyhd.png" tvg-id="JOJ Family", SK: Joj Family
 http://nn.geo.joj.sk/hls/family-540.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="JOJ Plus", SK: Joj Plus
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/jojplushd.png" tvg-id="JOJ Plus", SK: Joj Plus
 http://nn2.joj.sk/hls/jojplus-540.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Markíza", SK: Markíza
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/markizahd.png" tvg-id="Markíza", SK: Markíza
 http://217.144.16.215:1935/live/smil:markiza.smil/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Dajto", SK: Dajto
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/dajtohd.png" tvg-id="Dajto", SK: Dajto
 http://217.144.16.215:1935/live/smil:dajto.smil/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Doma", SK: Doma
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/domahd.png" tvg-id="Doma", SK: Doma
 http://217.144.16.215:1935/live/smil:doma.smil/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="WAU", SK: Wau
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/wauhd.png" tvg-id="WAU", SK: Wau
 http://nn2.joj.sk/hls/wau-540.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="RiK", SK: Rik
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/rik.png" tvg-id="RiK", SK: Rik
 http://nn2.joj.sk/hls/rik-540.m3u8
 
 
