@@ -1,71 +1,57 @@
 #EXTM3U
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Nova Sport 1", CZ: Nova Sport 1
-http://se02.se.cdn-05.srv.markiza.sk/hls/hls/novasport-w-3.m3u8
-
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Nova Sport 2", CZ: Nova Sport 2
-http://se02.se.cdn-05.srv.markiza.sk/hls/hls/novasport2-w-3.m3u8
-
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="EuroSport 1", CZ: EuroSport 1
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Orange sport", SK: Orange sport
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Orange Sport", SK: Orange sport
 http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="ČT 1 HD", CZ: ČT 1 HD
-http://213.151.233.20:8000/dna-5100-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_1.png" tvg-id="Nova Sport 1", CZ: Nova Sport 1
+http://185.167.208.157/master_339.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Markiza", SK: Markíza
-http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" tvg-id="Nova Sport 2", CZ: Nova Sport 2
+http://185.167.208.157/master_413.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Nova International", CZ: Nova International
-http://se02.se.cdn-05.srv.markiza.sk/hls/hls/nova-w-3.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/eurosport1.png" tvg-id="Eurosport 1", CZ: EuroSport 1
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Nova", CZ: Nova
-http://nova-live.ssl.cdn.cra.cz/channels/mcra/playlist/cze/live_hq.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/eurosport2.png" tvg-id="Eurosport 2", CZ: EuroSport 2
+http://185.167.208.157/master_337.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Nova Action", CZ: Nova Action
-http://nova-live.ssl.cdn.cra.cz/channels/mcrf/playlist/cze/live_hq.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/sport1.png" tvg-id="Sport 1", CZ: Sport 1
+http://217.144.16.215:1935/live/smil:sport1.smil/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Nova Cinema", CZ: Nova Cinema
-http://nova-live.ssl.cdn.cra.cz/channels/mcri/playlist/cze/live_hq.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/sport2.png" tvg-id="Sport 2", CZ: Sport 2
+http://185.167.208.157/master_406.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Nova Gold", CZ: Nova Gold
-http://nova-live.ssl.cdn.cra.cz/channels/mcrh/playlist/cze/live_hq.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Fightbox HD", CZ: Fight Box
+http://185.167.208.157/master_297.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Nova 2", CZ: Nova 2
-http://nova-live.ssl.cdn.cra.cz/channels/mcrg/playlist/cze/live_hq.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport1.png" tvg-id="Arena Sport 1", CZ: Arena sport 1 
+http://185.167.208.157/master_414.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="ČT 1", CZ: ČT 1
-http://92.62.234.223/103/mystream.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport2.png" tvg-id="Arena Sport 2", CZ: Arena sport 2
+http://185.167.208.157/master_348.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Prima", CZ: Prima
-http://83.167.253.110:5000/live/prima/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/sport5.png" tvg-id="Sport 5", CZ: Sport 5
+http://185.167.208.157/master_342.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Prima Cool", CZ: Prima Cool
-http://92.62.234.223/104/mystream.m3u8
-
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Prima Love", CZ: Prima Love
-http://92.62.234.223/101/mystream.m3u8
-
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="FilmBox", CZ: FilmBox
-http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
-
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Discovery", CZ: Discovery
-http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
-
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Extreme Sport", CZ: Extreme Sport
+#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Extreme Sports", CZ: Extreme Sport
 http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Šlágr TV", CZ: Šlágr TV
-http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
 
 
 
 
 
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="STV1", SK: STV1
-http://gocache3.antik.sk/live/test_stv1_800/playlist.m3u8
+http://185.167.208.157/master_465.m3u8
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="STV2", SK: STV2
+http://185.167.208.157/master_466.m3u8
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="TA3", SK: TA3
+http://185.167.208.157/master_380.m3u8
+
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="JOJ Cinema", SK: JOJ Cinema
+http://185.167.208.157/master_464.m3u8
 
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="JOJ", SK: Joj
 http://nn.geo.joj.sk/hls/joj-720.m3u8
@@ -76,21 +62,98 @@ http://nn.geo.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="JOJ Plus", SK: Joj Plus
 http://nn2.joj.sk/hls/jojplus-540.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Markiza", SK: Markíza
-http://se02.se.cdn-05.srv.markiza.sk/hls/hls/markiza-w-3.m3u8
-
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Markiza International", SK: Markíza International
-http://se02.se.cdn-05.srv.markiza.sk/hls/hls/markiza_int-w-3.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Markíza", SK: Markíza
+http://217.144.16.215:1935/live/smil:markiza.smil/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Dajto", SK: Dajto
-http://se02.se.cdn-05.srv.markiza.sk/hls/hls/dajto-w-3.m3u8
+http://217.144.16.215:1935/live/smil:dajto.smil/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Doma", SK: Doma
-http://se02.se.cdn-05.srv.markiza.sk/hls/hls/doma-w-3.m3u8
+http://217.144.16.215:1935/live/smil:doma.smil/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="WAU", SK: Wau
 http://nn2.joj.sk/hls/wau-540.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="Rik", SK: Rik
+#EXTINF:-1 $ExtFilter="TV" group-title="Slovenské televize" tvg-id="RiK", SK: Rik
 http://nn2.joj.sk/hls/rik-540.m3u8
+
+
+
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-id="Frekvence 1" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiof16.jpg",Frekvence1  (Pop)
+http://icecast4.play.cz/frekvence1-128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioe11.jpg",Evropa 2 (Pop)
+http://icecast3.play.cz/evropa2-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok13.jpg",Radio Kiss (Pop / Dance)
+http://icecast4.play.cz:8000/kiss128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioi12.jpg",Impuls Radio  (Pop)
+http://icecast5.play.cz/impuls128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioi13.jpg",Cesky Impuls (Oldies)	
+http://icecast6.play.cz:8000/cesky-impuls.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc24.jpg",Radio Cas (Ostrava)(Pop / Oldies)
+http://icecast7.play.cz:8000/casradio128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc23.jpg",Radio Cas Rock (Rock)
+http://icecast7.play.cz:8000/casrock128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc33.jpg",Country Radio (Country)	
+http://icecast4.play.cz:443/country128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiof13.jpg",Fajn Radio (Pop)
+http://ice.abradio.cz/fajn128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiob11.jpg",Radio Beat (Rock)
+http://ice5.abradio.cz/beat128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio Orion Morava (Pop)
+http://ice.abradio.cz/orionmorava128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok14.jpg",Koule.cz Filmove Melodie (Filmove melodie)
+http://ice-01.lagardere.cz:80/web-rb-melodie
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior12.jpg",Cesky rozhlas 1 - Radiozurnal (All Format)
+http://icecast7.play.cz:443/cro1-128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc27.jpg",CRo Ostrava (All Format / Classic / Oldies)
+http://icecast2.play.cz:8000/croov128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior13.jpg",Radio Retro (Mluvene slovo)
+http://icecast7.play.cz/croretro128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiow10.jpg",CRo Wave (Rock / Alternative)
+http://icecast5.play.cz:8000/crowave-128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioj14.jpg",CRo Jazz (Jazz)
+http://icecast2.play.cz:8000/crojazz128aac
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod18.jpg",CRo D-dur (Classic)
+http://icecast5.play.cz:8000/croddur-128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop18.jpg",CRo Plus (Mluvene slovo)
+http://icecast1.play.cz:443/croplus128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh13.jpg",Radio Humor (Mluvene slovo)
+http://mp3stream4.abradio.cz:8000/humor128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop11.jpg",Radio Povidka (Mluvene slovo)
+http://ice.abradio.cz/povidka128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop12.jpg",Radio Pohadka (Mluvene slovo)
+http://ice3.abradio.cz/pohadka128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod14.jpg",Radio Domino (Mluvene slovo)
+http://mp3stream4.abradio.cz/domino128.mp3
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc20.jpg",Cimrmanovo radio (Mluvene slovo) 
+http://liquiddoom.net:8000/cimrman
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg",Pigy.cz – Pohadky (Mluvene slovo)
+http://pool.cdn.lagardere.cz/web-pg-pohadky
+
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop13.jpg",Pigy - Pisnicky z pohadek (Pop)
+http://ice-01.lagardere.cz/web-pg-pisnicky
 
