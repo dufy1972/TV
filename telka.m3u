@@ -1,39 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Orange Sport", SK: Orange sport
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/orangesportsk.png" tvg-id="Orange Sport", SK: Orange sport
 http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_1.png" tvg-id="Nova Sport 1", CZ: Nova Sport 1
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/novasport1hd.png" tvg-id="Nova Sport 1", CZ: Nova Sport 1
 http://185.167.208.157/master_339.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" tvg-id="Nova Sport 2", CZ: Nova Sport 2
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/novasport2hd.png" tvg-id="Nova Sport 2", CZ: Nova Sport 2
 http://185.167.208.157/master_413.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/eurosport1.png" tvg-id="Eurosport 1", CZ: EuroSport 1
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/eurosport1hd.png" tvg-id="Eurosport 1", CZ: EuroSport 1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/eurosport2.png" tvg-id="Eurosport 2", CZ: EuroSport 2
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/eurosport2hd.png" tvg-id="Eurosport 2", CZ: EuroSport 2
 http://185.167.208.157/master_337.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/sport1.png" tvg-id="Sport 1", CZ: Sport 1
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/sport1hd.png" tvg-id="Sport1", CZ: Sport 1
 http://217.144.16.215:1935/live/smil:sport1.smil/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/sport2.png" tvg-id="Sport 2", CZ: Sport 2
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/sport2hd.png" tvg-id="Sport2", CZ: Sport 2
 http://185.167.208.157/master_406.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-id="Fightbox HD", CZ: Fight Box
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/fightbox.png" tvg-id="Fightbox HD", CZ: Fight Box
 http://185.167.208.157/master_297.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport1.png" tvg-id="Arena Sport 1", CZ: Arena sport 1 
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/arenasport1.png" tvg-id="Arena Sport 1", CZ: Arena sport 1 
 http://185.167.208.157/master_414.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport2.png" tvg-id="Arena Sport 2", CZ: Arena sport 2
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/arenasport2.png" tvg-id="Arena Sport 2", CZ: Arena sport 2
 http://185.167.208.157/master_348.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/sport5.png" tvg-id="Sport 5", CZ: Sport 5
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/sport5.png" tvg-id="Sport 5", CZ: Sport 5
 http://185.167.208.157/master_342.m3u8
 
-#EXTINF:-1 $ExtFilter="TV" group-title="České televize" tvg-id="Extreme Sports", CZ: Extreme Sport
+#EXTINF:-1 $ExtFilter="TV" group-title="Sportovní televize" tvg-logo="https://raw.githubusercontent.com/leifert/TV/master/loga/extremesports.png" tvg-id="Extreme Sports", CZ: Extreme Sport
 http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
 
